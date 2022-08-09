@@ -6,5 +6,8 @@ public class test {
         System.out.println("Git commit is success2 !!!");
         System.out.println("Git commit is success2 !!!");
         System.out.println("Git commit is success4 !!!");
+        System.out.println("Git commit is by master success4 !!!");
+        System.out.println("2Git commit is by master success4 !!!");
+        System.out.println("2Git commit is by hot-fix success4 !!!");
     }
 }
