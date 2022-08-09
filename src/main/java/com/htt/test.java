@@ -11,5 +11,6 @@ public class test {
         System.out.println("Git commit is by master success4 !!!");
         System.out.println("2Git commit is by master success4 !!!");
         System.out.println("2Git commit is by hot-fix success4 !!!");
+        System.out.println("push  success !!!");
     }
 }
