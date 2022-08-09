@@ -6,5 +6,7 @@ public class test {
         System.out.println("Git commit is success2 !!!");
         System.out.println("Git commit is success2 !!!");
         System.out.println("Git commit is success4 !!!");
+        System.out.println("-=======Git commit is success4 !!!");
+        System.out.println("-=======Git commit is success4 !!!");
     }
 }
