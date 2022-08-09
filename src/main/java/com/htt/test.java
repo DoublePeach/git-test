@@ -13,5 +13,6 @@ public class test {
         System.out.println("2Git commit is by hot-fix success4 !!!");
         System.out.println("push  success !!!");
         System.out.println("pull test success !!!");
+        System.out.println("修改后...");
     }
 }
